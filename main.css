@@ -1,0 +1,57 @@
+body {
+background-color: purple;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+
+}
+
+h1 {font-size: 40px;
+letter-spacing: 2px;
+color: blue;
+margin-top: 70px;}
+
+button {background-color: blue;
+margin: 40px;
+font-family: sans-serif;
+text-align: center;
+}
+
+p {color: green;
+  font-size: 30px;
+  font-family:sans-serif;
+  padding: 50px;
+  background: grey;
+
+ }
+
+.inputSection {
+margin: : 50px 0px 80px 0px;
+  width: 400px;
+}
+
+.inputs {
+widht: inherit;
+display: flex;
+flex-direction: column;
+margin: inherit;
+
+}
+
+input {
+  margin-top: 50px
+}
+
+.addOption {
+  padding: 15px 32px;
+margin-top: 10px;
+
+}
+
+.goButton {
+
+padding: 32px 16px;
+
+}
